@@ -1,2 +1,2 @@
 # KonusarakOgrenTask
- Konuşrak Öğren Firması İşe Alım Taskı
+ Konuşarak Öğren Firması İşe Alım Taskı
