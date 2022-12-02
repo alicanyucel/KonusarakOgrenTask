@@ -1,0 +1,17 @@
+C:\Users\Alican\source\Repos\KonusarakOgren\KonusarakOgren.DataAccess\bin\Debug\net6.0\KonusarakOgren.DataAccess.deps.json
+C:\Users\Alican\source\Repos\KonusarakOgren\KonusarakOgren.DataAccess\bin\Debug\net6.0\KonusarakOgren.DataAccess.runtimeconfig.json
+C:\Users\Alican\source\Repos\KonusarakOgren\KonusarakOgren.DataAccess\bin\Debug\net6.0\KonusarakOgren.DataAccess.dll
+C:\Users\Alican\source\Repos\KonusarakOgren\KonusarakOgren.DataAccess\bin\Debug\net6.0\KonusarakOgren.DataAccess.pdb
+C:\Users\Alican\source\Repos\KonusarakOgren\KonusarakOgren.DataAccess\bin\Debug\net6.0\KonusarakOgren.Entities.dll
+C:\Users\Alican\source\Repos\KonusarakOgren\KonusarakOgren.DataAccess\bin\Debug\net6.0\KonusarakOgren.Entities.pdb
+C:\Users\Alican\source\Repos\KonusarakOgren\KonusarakOgren.DataAccess\obj\Debug\net6.0\KonusarakOgren.DataAccess.csproj.AssemblyReference.cache
+C:\Users\Alican\source\Repos\KonusarakOgren\KonusarakOgren.DataAccess\obj\Debug\net6.0\KonusarakOgren.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alican\source\Repos\KonusarakOgren\KonusarakOgren.DataAccess\obj\Debug\net6.0\KonusarakOgren.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Alican\source\Repos\KonusarakOgren\KonusarakOgren.DataAccess\obj\Debug\net6.0\KonusarakOgren.DataAccess.AssemblyInfo.cs
+C:\Users\Alican\source\Repos\KonusarakOgren\KonusarakOgren.DataAccess\obj\Debug\net6.0\KonusarakOgren.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Alican\source\Repos\KonusarakOgren\KonusarakOgren.DataAccess\obj\Debug\net6.0\KonusarakOgren.DataAccess.csproj.CopyComplete
+C:\Users\Alican\source\Repos\KonusarakOgren\KonusarakOgren.DataAccess\obj\Debug\net6.0\KonusarakOgren.DataAccess.dll
+C:\Users\Alican\source\Repos\KonusarakOgren\KonusarakOgren.DataAccess\obj\Debug\net6.0\refint\KonusarakOgren.DataAccess.dll
+C:\Users\Alican\source\Repos\KonusarakOgren\KonusarakOgren.DataAccess\obj\Debug\net6.0\KonusarakOgren.DataAccess.pdb
+C:\Users\Alican\source\Repos\KonusarakOgren\KonusarakOgren.DataAccess\obj\Debug\net6.0\KonusarakOgren.DataAccess.genruntimeconfig.cache
+C:\Users\Alican\source\Repos\KonusarakOgren\KonusarakOgren.DataAccess\obj\Debug\net6.0\ref\KonusarakOgren.DataAccess.dll

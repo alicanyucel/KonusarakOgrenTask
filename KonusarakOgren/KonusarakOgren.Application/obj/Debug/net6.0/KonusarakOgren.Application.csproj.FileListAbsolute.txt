@@ -1,0 +1,17 @@
+C:\Users\Alican\source\Repos\KonusarakOgren\KonusarakOgren.Application\bin\Debug\net6.0\KonusarakOgren.Application.deps.json
+C:\Users\Alican\source\Repos\KonusarakOgren\KonusarakOgren.Application\bin\Debug\net6.0\KonusarakOgren.Application.runtimeconfig.json
+C:\Users\Alican\source\Repos\KonusarakOgren\KonusarakOgren.Application\bin\Debug\net6.0\KonusarakOgren.Application.dll
+C:\Users\Alican\source\Repos\KonusarakOgren\KonusarakOgren.Application\bin\Debug\net6.0\KonusarakOgren.Application.pdb
+C:\Users\Alican\source\Repos\KonusarakOgren\KonusarakOgren.Application\obj\Debug\net6.0\KonusarakOgren.Application.csproj.AssemblyReference.cache
+C:\Users\Alican\source\Repos\KonusarakOgren\KonusarakOgren.Application\obj\Debug\net6.0\KonusarakOgren.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alican\source\Repos\KonusarakOgren\KonusarakOgren.Application\obj\Debug\net6.0\KonusarakOgren.Application.AssemblyInfoInputs.cache
+C:\Users\Alican\source\Repos\KonusarakOgren\KonusarakOgren.Application\obj\Debug\net6.0\KonusarakOgren.Application.AssemblyInfo.cs
+C:\Users\Alican\source\Repos\KonusarakOgren\KonusarakOgren.Application\obj\Debug\net6.0\KonusarakOgren.Application.csproj.CoreCompileInputs.cache
+C:\Users\Alican\source\Repos\KonusarakOgren\KonusarakOgren.Application\obj\Debug\net6.0\KonusarakOgren.Application.dll
+C:\Users\Alican\source\Repos\KonusarakOgren\KonusarakOgren.Application\obj\Debug\net6.0\refint\KonusarakOgren.Application.dll
+C:\Users\Alican\source\Repos\KonusarakOgren\KonusarakOgren.Application\obj\Debug\net6.0\KonusarakOgren.Application.pdb
+C:\Users\Alican\source\Repos\KonusarakOgren\KonusarakOgren.Application\obj\Debug\net6.0\KonusarakOgren.Application.genruntimeconfig.cache
+C:\Users\Alican\source\Repos\KonusarakOgren\KonusarakOgren.Application\obj\Debug\net6.0\ref\KonusarakOgren.Application.dll
+C:\Users\Alican\source\Repos\KonusarakOgren\KonusarakOgren.Application\bin\Debug\net6.0\KonusarakOgren.Entities.dll
+C:\Users\Alican\source\Repos\KonusarakOgren\KonusarakOgren.Application\bin\Debug\net6.0\KonusarakOgren.Entities.pdb
+C:\Users\Alican\source\Repos\KonusarakOgren\KonusarakOgren.Application\obj\Debug\net6.0\KonusarakOgren.Application.csproj.CopyComplete
