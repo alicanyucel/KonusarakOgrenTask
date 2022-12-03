@@ -19,6 +19,9 @@ namespace KonusarakOgren.DataAccess.Context
         public DbSet<Options> Options { get; set; }
         public DbSet<Discount> Discounts { get; set; }
         public DbSet<Comment> Comments { get; set; }
+        public DbSet<Basket> Baskets { get; set; }
+        public DbSet<Payment> Payments { get; set; }
+        public DbSet<Order> Orders{ get; set; }
 
 
 
