@@ -1,0 +1,30 @@
+﻿
+@using KonusarakOgren.Mvc
+@using KonusarakOgren.Mvc.Models
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+<div class="container">
+    <form action="/Auth/Login" method="post">
+        <div class="col-md-4 offset-4">
+            @if (TempData["errors"] != null)
+            {
+                <h5 class="alert alert-danger">@TempData["errors"]</h5>
+            }
+            <div class="form-group mt-2">
+                <label for="userName">Kullanıcı Adı veya Emailinizi Giriniz</label>
+                <input class="form-control" required id="userName" name="userName" />
+            </div>
+            <div class="form-group mt-2">
+                <label for="password">Şifre</label>
+                <input type="password" required class="form-control" id="password" name="password" />
+            </div>
+            <div class="form-group mt-2">
+                <button class="btn btn-primary w-100">Giriş Yap</button>
+            </div>
+        </div>
+    </form>
+</div>

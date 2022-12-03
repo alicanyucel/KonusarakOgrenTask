@@ -16,6 +16,11 @@ namespace KonusarakOgren.DataAccess.Context
 
         }
         public DbSet<Product>Products { get; set; }
+        public DbSet<Options> Options { get; set; }
+        public DbSet<Discount> Discounts { get; set; }
+        public DbSet<Comment> Comments { get; set; }
+
+
 
     }
 }

@@ -12,3 +12,17 @@ C:\Users\Alican\source\Repos\KonusarakOgren\KonusarakOgren.Entities\obj\Debug\ne
 C:\Users\Alican\source\Repos\KonusarakOgren\KonusarakOgren.Entities\obj\Debug\net6.0\KonusarakOgren.Entities.pdb
 C:\Users\Alican\source\Repos\KonusarakOgren\KonusarakOgren.Entities\obj\Debug\net6.0\KonusarakOgren.Entities.genruntimeconfig.cache
 C:\Users\Alican\source\Repos\KonusarakOgren\KonusarakOgren.Entities\obj\Debug\net6.0\ref\KonusarakOgren.Entities.dll
+C:\Users\Alican\Source\Repos\KonusarakOgrenTask\KonusarakOgren\KonusarakOgren.Entities\bin\Debug\net6.0\KonusarakOgren.Entities.deps.json
+C:\Users\Alican\Source\Repos\KonusarakOgrenTask\KonusarakOgren\KonusarakOgren.Entities\bin\Debug\net6.0\KonusarakOgren.Entities.runtimeconfig.json
+C:\Users\Alican\Source\Repos\KonusarakOgrenTask\KonusarakOgren\KonusarakOgren.Entities\bin\Debug\net6.0\KonusarakOgren.Entities.dll
+C:\Users\Alican\Source\Repos\KonusarakOgrenTask\KonusarakOgren\KonusarakOgren.Entities\bin\Debug\net6.0\KonusarakOgren.Entities.pdb
+C:\Users\Alican\Source\Repos\KonusarakOgrenTask\KonusarakOgren\KonusarakOgren.Entities\obj\Debug\net6.0\KonusarakOgren.Entities.csproj.AssemblyReference.cache
+C:\Users\Alican\Source\Repos\KonusarakOgrenTask\KonusarakOgren\KonusarakOgren.Entities\obj\Debug\net6.0\KonusarakOgren.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alican\Source\Repos\KonusarakOgrenTask\KonusarakOgren\KonusarakOgren.Entities\obj\Debug\net6.0\KonusarakOgren.Entities.AssemblyInfoInputs.cache
+C:\Users\Alican\Source\Repos\KonusarakOgrenTask\KonusarakOgren\KonusarakOgren.Entities\obj\Debug\net6.0\KonusarakOgren.Entities.AssemblyInfo.cs
+C:\Users\Alican\Source\Repos\KonusarakOgrenTask\KonusarakOgren\KonusarakOgren.Entities\obj\Debug\net6.0\KonusarakOgren.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Alican\Source\Repos\KonusarakOgrenTask\KonusarakOgren\KonusarakOgren.Entities\obj\Debug\net6.0\KonusarakOgren.Entities.dll
+C:\Users\Alican\Source\Repos\KonusarakOgrenTask\KonusarakOgren\KonusarakOgren.Entities\obj\Debug\net6.0\refint\KonusarakOgren.Entities.dll
+C:\Users\Alican\Source\Repos\KonusarakOgrenTask\KonusarakOgren\KonusarakOgren.Entities\obj\Debug\net6.0\KonusarakOgren.Entities.pdb
+C:\Users\Alican\Source\Repos\KonusarakOgrenTask\KonusarakOgren\KonusarakOgren.Entities\obj\Debug\net6.0\KonusarakOgren.Entities.genruntimeconfig.cache
+C:\Users\Alican\Source\Repos\KonusarakOgrenTask\KonusarakOgren\KonusarakOgren.Entities\obj\Debug\net6.0\ref\KonusarakOgren.Entities.dll

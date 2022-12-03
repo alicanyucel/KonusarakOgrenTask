@@ -18,10 +18,46 @@ namespace KonusarakOgren.Mvc.Controllers
             RegisterDto registerdto = new()
             {
                 Email = "yucelalican@hotmail.com",
-                Password = "torku123",
+                Password = "Torku.123",
                 UserName = "Alican"
             };
-            _userservice.CreateUser(registerdto);
+            await _userservice.CreateUser(registerdto);
+            registerdto = new()
+            {
+                Email = "yagmur@hotmail.com",
+                Password = "Torku.123",
+                UserName = "yagmur"
+            };
+            await _userservice.CreateUser(registerdto);
+            registerdto = new()
+            {
+                Email = "eseryucel@hotmail.com",
+                Password = "Torku.123",
+                UserName = "Eser"
+            };
+            await _userservice.CreateUser(registerdto);
+            registerdto = new()
+            {
+                Email = "kezban@hotmail.com",
+                Password = "Torku.123",
+                UserName = "Kezban"
+            };
+            await _userservice.CreateUser(registerdto);
+            registerdto = new()
+            {
+                Email = "atilla@hotmail.com",
+                Password = "Torku.123",
+                UserName = "Atilla"
+            };
+            await _userservice.CreateUser(registerdto);
+            registerdto = new()
+            {
+                Email = "atikmatik@hotmail.com",
+                Password = "Torku.123",
+                UserName = "Atıl"
+            };
+
+            await _userservice.CreateUser(registerdto);
             return View();
         }
 

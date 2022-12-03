@@ -2106,11 +2106,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Alican\\source\\Repos\\KonusarakOgren\\KonusarakOgren.Application\\KonusarakOgren.Application.csproj",
+      "projectUniqueName": "C:\\Users\\Alican\\Source\\Repos\\KonusarakOgrenTask\\KonusarakOgren\\KonusarakOgren.Application\\KonusarakOgren.Application.csproj",
       "projectName": "KonusarakOgren.Application",
-      "projectPath": "C:\\Users\\Alican\\source\\Repos\\KonusarakOgren\\KonusarakOgren.Application\\KonusarakOgren.Application.csproj",
+      "projectPath": "C:\\Users\\Alican\\Source\\Repos\\KonusarakOgrenTask\\KonusarakOgren\\KonusarakOgren.Application\\KonusarakOgren.Application.csproj",
       "packagesPath": "C:\\Users\\Alican\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Alican\\source\\Repos\\KonusarakOgren\\KonusarakOgren.Application\\obj\\",
+      "outputPath": "C:\\Users\\Alican\\Source\\Repos\\KonusarakOgrenTask\\KonusarakOgren\\KonusarakOgren.Application\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -2131,8 +2131,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\Alican\\source\\Repos\\KonusarakOgren\\KonusarakOgren.Entities\\KonusarakOgren.Entities.csproj": {
-              "projectPath": "C:\\Users\\Alican\\source\\Repos\\KonusarakOgren\\KonusarakOgren.Entities\\KonusarakOgren.Entities.csproj"
+            "C:\\Users\\Alican\\Source\\Repos\\KonusarakOgrenTask\\KonusarakOgren\\KonusarakOgren.Entities\\KonusarakOgren.Entities.csproj": {
+              "projectPath": "C:\\Users\\Alican\\Source\\Repos\\KonusarakOgrenTask\\KonusarakOgren\\KonusarakOgren.Entities\\KonusarakOgren.Entities.csproj"
             }
           }
         }

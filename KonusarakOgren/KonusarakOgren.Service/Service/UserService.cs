@@ -39,7 +39,7 @@ namespace KonusarakOgren.Service.Service
                 UserName = registerDto.UserName,
                 Email=registerDto.Email
             };
-            await _usermanager.CreateAsync(user,registerDto.Password);
+         IdentityResult result=await _usermanager.CreateAsync(user,registerDto.Password);
         }
     }
 }

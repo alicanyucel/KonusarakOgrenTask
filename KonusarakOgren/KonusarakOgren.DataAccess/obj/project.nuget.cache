@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "qdjh0yRA3FZ4IeJW7Yrjv6BJ4VvW+BgzXCtS8ff6IvDLWDzFtBGtqqUS+LadQv7AQCc7oPdEwAG3uO96zqc22Q==",
+  "dgSpecHash": "TmMW63V2w7xwImzkcTUd5Ub2Tlbj0q7rJSrYJ24FJLT3VoFL8CnxyvxsVl3B9fC37nMOZDC/vb6V8JMf9coNVQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Alican\\source\\Repos\\KonusarakOgren\\KonusarakOgren.DataAccess\\KonusarakOgren.DataAccess.csproj",
+  "projectFilePath": "C:\\Users\\Alican\\Source\\Repos\\KonusarakOgrenTask\\KonusarakOgren\\KonusarakOgren.DataAccess\\KonusarakOgren.DataAccess.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Alican\\.nuget\\packages\\automapper\\12.0.0\\automapper.12.0.0.nupkg.sha512",
     "C:\\Users\\Alican\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.0\\automapper.extensions.microsoft.dependencyinjection.12.0.0.nupkg.sha512",

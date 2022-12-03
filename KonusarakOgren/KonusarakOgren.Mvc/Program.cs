@@ -10,7 +10,7 @@ var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddServiceRegister();
 builder.Services.AddControllersWithViews();
 builder.Services.AddDbContext<KonusarakOgrenContext>(b => b.UseSqlServer(builder.Configuration.GetConnectionString("SqlServer")));
-builder.Services.AddIdentity<AppUser, IdentityRole>().AddEntityFrameworkStores<KonusarakOgrenContext>();
+builder.Services.AddIdentity<AppUser, AppRole>().AddEntityFrameworkStores<KonusarakOgrenContext>();
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
