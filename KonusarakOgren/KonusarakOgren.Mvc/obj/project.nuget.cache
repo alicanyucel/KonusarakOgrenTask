@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "vIh6EIwK58SwxYdqFx3japNq9IxTQLKiZWzdgBFfmk6Q4gOmxCE80ONVgbI51BialK2Vr/6ByBqZ99NOmkZQCg==",
+  "dgSpecHash": "VJnEApnqRgnHc2M9UyRDh2BO/zAaVS8S46x5MmAGwc/prAOPTZSWAYWkld1EhEqop6MV+FAcoXc3Pej7BflrGg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Alican\\Source\\Repos\\KonusarakOgrenTask\\KonusarakOgren\\KonusarakOgren.Mvc\\KonusarakOgren.Mvc.csproj",
+  "projectFilePath": "C:\\Users\\Alican\\source\\Repos\\KonusarakOgrenTask\\KonusarakOgren\\KonusarakOgren.Mvc\\KonusarakOgren.Mvc.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Alican\\.nuget\\packages\\automapper\\12.0.0\\automapper.12.0.0.nupkg.sha512",
     "C:\\Users\\Alican\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.0\\automapper.extensions.microsoft.dependencyinjection.12.0.0.nupkg.sha512",

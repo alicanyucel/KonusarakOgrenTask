@@ -2106,9 +2106,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Alican\\Source\\Repos\\KonusarakOgrenTask\\KonusarakOgren\\KonusarakOgren.DataAccess\\KonusarakOgren.DataAccess.csproj",
+      "projectUniqueName": "C:\\Users\\Alican\\source\\Repos\\KonusarakOgrenTask\\KonusarakOgren\\KonusarakOgren.DataAccess\\KonusarakOgren.DataAccess.csproj",
       "projectName": "KonusarakOgren.DataAccess",
-      "projectPath": "C:\\Users\\Alican\\Source\\Repos\\KonusarakOgrenTask\\KonusarakOgren\\KonusarakOgren.DataAccess\\KonusarakOgren.DataAccess.csproj",
+      "projectPath": "C:\\Users\\Alican\\source\\Repos\\KonusarakOgrenTask\\KonusarakOgren\\KonusarakOgren.DataAccess\\KonusarakOgren.DataAccess.csproj",
       "packagesPath": "C:\\Users\\Alican\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Alican\\Source\\Repos\\KonusarakOgrenTask\\KonusarakOgren\\KonusarakOgren.DataAccess\\obj\\",
       "projectStyle": "PackageReference",
@@ -2131,8 +2131,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\Alican\\Source\\Repos\\KonusarakOgrenTask\\KonusarakOgren\\KonusarakOgren.Entities\\KonusarakOgren.Entities.csproj": {
-              "projectPath": "C:\\Users\\Alican\\Source\\Repos\\KonusarakOgrenTask\\KonusarakOgren\\KonusarakOgren.Entities\\KonusarakOgren.Entities.csproj"
+            "C:\\Users\\Alican\\source\\Repos\\KonusarakOgrenTask\\KonusarakOgren\\KonusarakOgren.Entities\\KonusarakOgren.Entities.csproj": {
+              "projectPath": "C:\\Users\\Alican\\source\\Repos\\KonusarakOgrenTask\\KonusarakOgren\\KonusarakOgren.Entities\\KonusarakOgren.Entities.csproj"
             }
           }
         }

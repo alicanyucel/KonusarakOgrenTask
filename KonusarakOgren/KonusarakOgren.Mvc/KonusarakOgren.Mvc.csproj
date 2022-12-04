@@ -29,4 +29,8 @@
     <ProjectReference Include="..\KonusarakOgren.Service\KonusarakOgren.Service.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="wwwroot\resimler\" />
+  </ItemGroup>
+
 </Project>

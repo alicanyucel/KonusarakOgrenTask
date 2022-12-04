@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "TERy+K/QwGvKomRFMmU7Dac6hBN3Y0ykJdmlbW9w9aE7M2kj6PblOYH8v6Zmxl4wSiSXfdRIqO7ze5q09V1Ltg==",
+  "dgSpecHash": "+XPi8GRDXNd7ftCugIgRQvAlN2so29VOC02eq1uUyj8f+dIiCl75/ouwlS9U2HRuGT/DhMiZkpS73KHUPtFQ5A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Alican\\Source\\Repos\\KonusarakOgrenTask\\KonusarakOgren\\KonusarakOgren.Entities\\KonusarakOgren.Entities.csproj",
+  "projectFilePath": "C:\\Users\\Alican\\source\\Repos\\KonusarakOgrenTask\\KonusarakOgren\\KonusarakOgren.Entities\\KonusarakOgren.Entities.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Alican\\.nuget\\packages\\automapper\\12.0.0\\automapper.12.0.0.nupkg.sha512",
     "C:\\Users\\Alican\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.0\\automapper.extensions.microsoft.dependencyinjection.12.0.0.nupkg.sha512",

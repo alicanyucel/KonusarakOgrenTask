@@ -3,44 +3,48 @@ using KonusarakOgren.Entities.Dtos;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
 
-namespace KonusarakOgren.Mvc.Controllers
+namespace MVC.Controllers
 {
     public class AuthController : Controller
     {
-        private readonly UserManager<AppUser> _usermanager;
-        public AuthController(UserManager<AppUser> usermanager)
+        private readonly UserManager<AppUser> _userManager;
+
+        public AuthController(UserManager<AppUser> userManager)
         {
-            _usermanager = usermanager;
+            _userManager = userManager;
         }
 
-        [HttpGet]
         public IActionResult Index()
         {
             return View();
         }
+
         [HttpPost]
         public async Task<IActionResult> Login(LoginDto loginDto)
         {
-            AppUser user = await _usermanager.FindByEmailAsync(loginDto.UserName);
+            AppUser user = await _userManager.FindByEmailAsync(loginDto.UserName);
             if (user == null)
-                user = await _usermanager.FindByNameAsync(loginDto.UserName);
+                user = await _userManager.FindByNameAsync(loginDto.UserName);
+
             if (user == null)
             {
-                TempData["errors"] = "Kullanici bulunamadi";
+                TempData["errors"] = "User not found!";
                 return RedirectToAction("Index", "Auth");
             }
 
-            bool result = await _usermanager.CheckPasswordAsync(user, loginDto.PassWord);
+            bool result = await _userManager.CheckPasswordAsync(user, loginDto.PassWord);
             if (result)
             {
-                var roles = await _usermanager.GetRolesAsync(user);
+                var roles = await _userManager.GetRolesAsync(user);
                 TempData["roles"] = roles;
-                return RedirectToAction("Index", "Home");
+                return RedirectToAction("index", "Home");
             }
-            TempData["errors"] = "Şifre hatalı";
+
+
+
+
+            TempData["errors"] = "Password is wrong!";
             return RedirectToAction("Index", "Auth");
         }
-
-
     }
 }
